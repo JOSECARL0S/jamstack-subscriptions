@@ -1,0 +1,15 @@
+{
+  "name": "jamstack-subscriptions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.23.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
